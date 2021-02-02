@@ -11,3 +11,7 @@ function removeFunction() {
 function divideFunction() {
     return 1  /1;
 }
+
+function multiplyFunction() {
+    return 1 * 1;
+}
