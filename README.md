@@ -4,4 +4,4 @@ This is an example file to test git.
 
 Added some other text.
 
-This is remote change.
+This is *remote* change.
