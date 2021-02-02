@@ -15,3 +15,7 @@ function divideFunction() {
 function multiplyFunction() {
     return 1 * 1;
 }
+
+function sqrtFunction() {
+    return Math.sqrt(1);
+}
